@@ -1,4 +1,3 @@
-#About me
 ## I’m Mrigank Chandra – a passionate and driven Data Analyst with a rich academic foundation in Environmental Sciences and Forestry, and a growing professional footprint in data analytics, business intelligence, and public policy projects. My journey reflects a strong intersection of data-driven decision-making and real-world problem-solving across sectors like urban governance, e-commerce, and environmental monitoring.
 
 With hands-on experience in SQL, Python, Power BI, and Excel, my approach revolves around extracting actionable insights from complex datasets. Whether it's optimizing e-commerce performance, analyzing airline data, or contributing to nation-wide missions like Swachh Bharat Abhiyan, I bring both technical depth and contextual understanding to every challenge.
